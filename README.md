@@ -11,18 +11,17 @@ Add header row using th tag
 ### STEP 3
 Add your timetable
 ### STEP 4
-Execute the program
-# Design a Webpage to Display Timetable 
-#Developed by:SANTANA LEKSHMI
-#RegisterNumber:22003398
-~~~
+Execute the program     
+
+# CODE
+```
 <TABLE BORDER="8" width="750" bgcolor="lightblue" cellspacing="10" cellpadding="15"> 
 <TR> 
 	<TH colspan="10" align="center" bgcolor="pink">TIME TABLE</TH>
 </TR>   
 <TR> 
-      <TH colspan="3" align="left" bgcolor=" lightgreen">REFERENCE NUMBER:22003398</TH>
-      <TH colspan="5" align="left" bgcolor="lightgreen">NAME:SANTHANA LEKSHMI</TH>
+      <TH colspan="3" align="left" bgcolor="lavender">REFERENCE NUMBER:22003398</TH>
+      <TH colspan="5" align="left" bgcolor="lavender">NAME:SANTHANA LEKSHMI</TH>
      
 </TR>
 <TR>
@@ -78,28 +77,29 @@ Execute the program
       <TD width="25%">FREE HOUR</TD>
       <TD width="25%">LUNCH</TD>
       <TD width="25%">CHEMISTRY</TD>
-      <TD width="25%">FREE HOUR</TD>
+      <TD width="25%">WEB</TD>
  </TR>
 <TR>
-<TH colspan="8" align="centre" bgcolor="lightorange">WEB FACULTY: MR:SELVAKUMAR </TH>
+<TH colspan="8" align="centre" bgcolor="lightgreen">WEB FACULTY: MR:SELVAKUMAR </TH>
 <TR>
-<TH colspan="8" align=" centre" bgcolor="lightorange">CHEMISTRY FACULTY:MRS.LAVANYA</TH>
+<TH colspan="8" align=" centre" bgcolor="lightgreen">CHEMISTRY FACULTY:MRS.LAVANYA</TH>
 </TR>
 <TR>
-<TH colspan="8" align=" centre" bgcolor="lightorange">EDM FACULTY:MR.MUTHUKUMAR </TH>
+<TH colspan="8" align=" centre" bgcolor="lightgreen">EDM FACULTY:MR.MUTHUKUMAR </TH>
 <TR/>
 <TR>
-<TH colspan="8" align=" centre" bgcolor="lightorange">ENGLISH FACULTY:MRS.FREEDA RJAKUMARI.R</TH>
+<TH colspan="8" align=" centre" bgcolor="lightgreen">ENGLISH FACULTY:MRS.FREEDA RJAKUMARI.R</TH>
 </TR>
 <TR>
-<TH colspan="8" align=" centre" bgcolor="lightorange">SOFT SKILLS FACULTY:MRS.SARANYA.V</TH>
+<TH colspan="8" align=" centre" bgcolor="lightgreen">SOFT SKILLS FACULTY:MRS.SARANYA.V</TH>
 </TR>
 <TR>
-<TH colspan="8" align=" centre" bgcolor="lightorange">DE: MR.ANISHKUMAR</TH>
+<TH colspan="8" align=" centre" bgcolor="lightgreen">DE: MR.ANISHKUMAR</TH>
 </TR>
-</TABLE>      
-
-# CODE
+</TABLE> 
+```
 
 # OUPUT
+![image](https://user-images.githubusercontent.com/119475762/212481503-0b39452e-12ab-43d6-a77c-d570d05a6b11.png)
+# Result:
 Thus the table is successfully executed.
